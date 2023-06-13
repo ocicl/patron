@@ -1,0 +1,10 @@
+* patron
+
+A multi-consumer/multi-producer  thread pooling  library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vy/patron.git   |
+| commit  | f23421a  |
+| systems | patron |
+|---------+-------------------------------------------|
+
